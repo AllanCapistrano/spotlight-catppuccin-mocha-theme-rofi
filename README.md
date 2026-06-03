@@ -1,6 +1,12 @@
 # spotlight-catppuccin-mocha-theme-rofi
 
-Catppuccin Mocha theme for Rofi inspired by macOS Spotlight
+Catppuccin Mocha theme for Rofi inspired by macOS Spotlight.
+
+![](./examples/example-1.png)
+
+![](./examples/example-2.png)
+
+![](./examples/example-3.png)
 
 ## How to use
 

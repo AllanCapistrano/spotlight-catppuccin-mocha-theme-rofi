@@ -5,13 +5,13 @@
 * {
     font:   "Montserrat 12";
 
-    bg0:    #181825;
-    bg1:    #1e1e2e;
-    bg2:    #cba6f7;
+    bg0:    #181825ee;
+    bg1:    #1e1e2eee;
+    bg2:    #cba6f7ee;
 
-    fg0:    #cdd6f4;
-    fg1:    #11111b;
-    fg2:    #bac2de;
+    fg0:    #cdd6f4ee;
+    fg1:    #11111bee;
+    fg2:    #bac2deee;
 
     background-color:   transparent;
     text-color:         @fg0;
